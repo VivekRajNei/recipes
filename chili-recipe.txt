@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Ingredients: <chili-recipe>
+=======
+Ingredients: ;-)
+>>>>>>> 3b4351d0163b61e3394d587ff0ae016d6eef4941
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
